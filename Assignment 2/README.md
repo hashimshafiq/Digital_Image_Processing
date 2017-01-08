@@ -17,4 +17,5 @@ ii)	 Size of box filter: 5x5
 
 Write the Matlab code to perform median filtering for filter size 3x3 on any image (i.e.‘cameraman.tif’). 
 
-##Note: These are not optimized version of matlab scripts
+Note: These are not optimized version of matlab scripts. For optimized versions of this assignment, goto DIP group on facebook.
+
