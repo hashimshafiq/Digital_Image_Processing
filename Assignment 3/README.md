@@ -6,3 +6,5 @@
 
 ##Question 2
 ###Read a color image in Matlab. Use RGB values of every pixel as feature and apply Segmentation using K-Mean clustering. K can be selected by user depending on the input image.
+
+Note: Question 2 is only for GRAYSCALE images.
